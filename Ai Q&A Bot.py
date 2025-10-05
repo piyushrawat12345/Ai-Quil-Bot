@@ -10,7 +10,7 @@ def main():
         print("Please set it using: export GROQ_API_KEY='your-api-key-here'")
         return
     
-    client = Groq(api_key=api_key)
+    client = Groq(api_key=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)
     
     print("=" * 50)
     print("AI Q&A Bot - Powered by Groq")
