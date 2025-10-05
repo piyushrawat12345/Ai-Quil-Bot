@@ -3,7 +3,7 @@ from groq import Groq
 
 def main():
     # Initialize Groq client
-    api_key = os.environ.get("GROQ_API_KEY")
+    api_key = os.environ.get("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 ")
     
     if not api_key:
         print("Error: GROQ_API_KEY environment variable not set")
